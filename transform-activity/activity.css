@@ -1,3 +1,6 @@
-main { -webkit-transform: rotate(-10deg);
-
+main { 
+        transform: scale(1.3) rotate(-14deg);
+}
+.info{
+        transform: scale(.8) skewY(-14deg) rotate(14deg) 
 }
